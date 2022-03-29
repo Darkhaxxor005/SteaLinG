@@ -2,8 +2,8 @@
 # Author: Abdulrahman Mohammed > -*- De3vil -*-
 # Don't touch my code, it's art 
 #===============================
-from modules_virsion2.Moud.GetKay import Encryption_key
-from modules_virsion2.Moud.DecryptPass import DecryptPassword
+from modules_version2.Moud.GetKay import Encryption_key
+from modules_version2.Moud.DecryptPass import DecryptPassword
 from os import path
 from sqlite3 import connect 
 from shutil import copyfile
