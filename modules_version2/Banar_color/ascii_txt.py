@@ -48,8 +48,8 @@ bannar =f"""
 {WI}	 ███████║   ██║   ███████╗██║  ██║███████╗██║██║ ╚████║╚██████╔╝
 {R}	 ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝	
           {W}╔═════════════════{WI}Stealing.{W}════════════════════╗{W}
-          {WI}║{Q}* {B}Created by{Q}:{X}AbdulRahman Mohammed {R}(De3vil)  {WI}  ║{WI}
-	  {WI}║{Q}* {B}Debuged by{Q}:{X}Indra  {R}(R00tDev1l)             {WI}  ║{WI}
+          {WI}║{Q}* {B}Created by{Q} :{X}AbdulRahman Mohammed {R}(De3vil)  {WI}  ║{WI}
+	  {WI}║{Q}* {B}Debugged by{Q}:{X}Indra {R}(R00tDev1l)              {WI}  ║{WI}
 	  {WI}║{Q}* {W}{B}Version{Q}   : {R}{version}                            {WI} ║{WI}
 	  {W}╚════════════════{WI}Enjoy stealing{W}════════════════╝{W}"""+"\n"
 
