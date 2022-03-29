@@ -5,9 +5,9 @@
 # Don't touch my code, it's art 
 #+==============================
 
-from modules_virsion2.Moud import buildHis  , buildpass , Files
-from modules_virsion2.Banar_color import ascii_txt
-from modules_virsion2.Banar_color.ascii_txt import merry , WI , W ,Y, B , M ,Q , G , R , X , Z  ,bl , txt , txt1 , cheeksystem
+from modules_version2.Moud import buildHis  , buildpass , Files
+from modules_version2.Banar_color import ascii_txt
+from modules_version2.Banar_color.ascii_txt import merry , WI , W ,Y, B , M ,Q , G , R , X , Z  ,bl , txt , txt1 , cheeksystem
 from os import system , remove 
 from shutil import rmtree
 from sys import exit
