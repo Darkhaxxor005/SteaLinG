@@ -3,3 +3,4 @@ pywin32
 pycryptodome
 colored
 browser_history
+pyinstaller
